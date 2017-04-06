@@ -9,7 +9,7 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "awskeypair.pem"
+    "ParameterValue": "awskeypair"
    },
   {
      "ParameterKey": "SubnetId",
